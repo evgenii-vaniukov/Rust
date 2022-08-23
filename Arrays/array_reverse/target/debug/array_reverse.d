@@ -1,0 +1,1 @@
+/Users/evgenii.vanukov/Library/CloudStorage/OneDrive-Личная/Документы/Rust/Practice/Arrays/array_reverse/target/debug/array_reverse: /Users/evgenii.vanukov/Library/CloudStorage/OneDrive-Личная/Документы/Rust/Practice/Arrays/array_reverse/src/main.rs

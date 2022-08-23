@@ -1,0 +1,1 @@
+/Users/evgenii.vanukov/Library/CloudStorage/OneDrive-Личная/Документы/Rust/Practice/Numbers/factorial/target/debug/factorial: /Users/evgenii.vanukov/Library/CloudStorage/OneDrive-Личная/Документы/Rust/Practice/Numbers/factorial/src/main.rs
