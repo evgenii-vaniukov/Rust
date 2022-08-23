@@ -1,0 +1,1 @@
+/Users/evgenii.vanukov/Library/CloudStorage/OneDrive-Личная/Документы/Rust/Practice/Arithmetic/calculculating_an_expression/target/debug/calculculating_an_expression: /Users/evgenii.vanukov/Library/CloudStorage/OneDrive-Личная/Документы/Rust/Practice/Arithmetic/calculculating_an_expression/src/main.rs
